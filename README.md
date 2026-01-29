@@ -62,9 +62,9 @@ Deep Learning • Reinforcement Learning • Probabilistic ML • Distributed Sy
 [LinkedIn](https://www.linkedin.com/in/naman466/) • [Email](mailto:namantyagi466@gmail.com)
 
 **Writing & Insights**  
-[Research Blog](https://naman466.substack.com/) • [Twitter]([https://twitter.com/your_handle](https://x.com/naman466))
+[Research Blog](https://naman466.substack.com/) • [Twitter]((https://x.com/naman466))
 
 ---
 
-*"The first principle is that you must not fool yourself—and you are the easiest person to fool."*  
+*"The first principle is that you must not fool yourself, and you are the easiest person to fool."*  
 — Richard Feynman
