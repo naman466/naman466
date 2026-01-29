@@ -20,9 +20,6 @@ I work on **model optimization, efficient neural networks, and multi-agent commu
 
 ## 💡 Current Projects
 
-**CAMEL AI Project (Loong)**  
-Domain lead for AI system research, focusing on scalable multi-agent architectures and communication protocols.
-
 **ConvNet Library**  
 Building a minimal, extensible library for rapid experimentation with neural network architectures and optimization techniques.
 
