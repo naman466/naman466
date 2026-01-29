@@ -62,7 +62,7 @@ Deep Learning • Reinforcement Learning • Probabilistic ML • Distributed Sy
 [LinkedIn](https://www.linkedin.com/in/naman466/) • [Email](mailto:namantyagi466@gmail.com)
 
 **Writing & Insights**  
-[Research Blog](https://naman466.substack.com/) • [Twitter]((https://x.com/naman466))
+[Research Blog](https://naman466.substack.com/) • [Twitter](https://x.com/naman466)
 
 ---
 
