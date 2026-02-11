@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Focus-ML%20Systems-blue" />
   <img src="https://img.shields.io/badge/Interest-Model%20Efficiency-green" />
   <img src="https://img.shields.io/badge/Learning-Low%20Level%20ML-orange" />
-  <img src="https://img.shields.io/badge/Languages-C%20%7C%20Python-lightgrey" />
+  <img src="https://img.shields.io/badge/Languages-C++%20%7C%20Python-lightgrey" />
 </p>
 
 ---
@@ -28,7 +28,7 @@ I implement numerical computing concepts from scratch to understand how numbers 
 
 **⚙️ Compiler style lowering**  
 I am exploring how a high level model graph (ONNX) can be lowered into executable C code, essentially a miniature ML compiler built for learning.  
-→ [`onnx-to-c`](https://github.com/naman466/null) – graph traversal, IR design, operation lowering, code generation.
+→ [`null`](https://github.com/naman466/null) – graph traversal, IR design, operation lowering, code generation.
 
 **📉 Model efficiency**  
 Alongside systems work, I study sparsity, pruning, quantization, and optimisation with the aim of making models smaller and faster without sacrificing accuracy.  
