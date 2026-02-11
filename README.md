@@ -1,67 +1,71 @@
-# Hi, I'm Naman Tyagi 👋
+<h1 align="center">Hi, I'm Naman Tyagi!</h1>
+<p align="center">
+  <b>CS student · ML systems · numerical foundations · efficiency research</b>
+</p>
 
-I work on **model optimization, efficient neural networks, and multi-agent communication systems**. I enjoy exploring complex problems and turning them into reproducible experiments and insights.
-
----
-
-## 🔬 Research Focus
-
-**Model Optimization & Efficiency**
-- Pruning, quantization, and knowledge distillation techniques
-- Neural network efficiency for faster training and inference
-- Lightweight model architectures for real-world deployment
-
-**Multi-Agent Systems**
-- Communication protocols and coordination mechanisms  
-- Scaling laws in distributed AI systems
-- Emergent behavior analysis in agent networks
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-ML%20Systems-blue" />
+  <img src="https://img.shields.io/badge/Interest-Model%20Efficiency-green" />
+  <img src="https://img.shields.io/badge/Learning-Low%20Level%20ML-orange" />
+  <img src="https://img.shields.io/badge/Languages-C%20%7C%20Python-lightgrey" />
+</p>
 
 ---
 
-## 💡 Current Projects
+I am a computer science student who believes that **deep understanding comes from building things yourself**.  
+Instead of only using high level libraries, I explore the layers beneath, from IEEE 754 floating point to compiler IRs and kernel execution.
 
-**ConvNet Library**  
-Building a minimal, extensible library for rapid experimentation with neural network architectures and optimization techniques.
-
-**Multi-Agent Communication Scaling Study**  
-Conducting empirical research on coordination dynamics and message diversity patterns in large-scale agent systems.
+My goal is to contribute to research in **efficient deep learning** and **low level ML infrastructure**.  
+Right now, I am in the learning phase, and every project is an excuse to pull back the curtain.
 
 ---
 
-## 📚 Research Contributions
+## 🔍 What I work on
 
-**Publications**  
-Contributing to research on neural network optimization and multi-agent systems across various conferences and journals. Working on several manuscripts exploring the intersection of model efficiency and distributed intelligence.
+**🧮 Numerical foundations**  
+I implement numerical computing concepts from scratch to understand how numbers behave in hardware and why that matters for neural networks.  
+→ [`numerical-methods`](https://github.com/naman466/numerical-methods) – IEEE 754 (FP32, bfloat16), rounding, overflow, NaNs, precision tradeoffs.
 
-**Patents**  
-2 design patents (1 pending) focused on novel architectural approaches to neural network optimization.
+**⚙️ Compiler style lowering**  
+I am exploring how a high level model graph (ONNX) can be lowered into executable C code, essentially a miniature ML compiler built for learning.  
+→ [`onnx-to-c`](https://github.com/naman466/null) – graph traversal, IR design, operation lowering, code generation.
 
-[View Research Profile](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=j5IBsvAAAAAJ&gmla=AH8HC4w4YHogSx1zh2CvgMA4oyrbEbcLTzn5OZHq7jjNNFXFFnAHipwnEuBYAKs_ud7l3w88dTBH1H2pD-o6lDtc2IEaeCMzYnkaw6r7ijQ&sciund=6576036863700207199)
-
----
-
-## 🛠️ Technical Stack
-
-**Core Technologies**  
-Python • PyTorch • NumPy • Pandas • Matplotlib • Scikit-learn
-
-**Research & Development**  
-Git • Docker • LaTeX • Jupyter • Weights & Biases • Ray
-
-**Specializations**  
-Deep Learning • Reinforcement Learning • Probabilistic ML • Distributed Systems
+**📉 Model efficiency**  
+Alongside systems work, I study sparsity, pruning, quantization, and optimisation with the aim of making models smaller and faster without sacrificing accuracy.  
+More projects coming as I deepen this direction.
 
 ---
 
-## 📫 Let's Connect
+## 🧭 Research interests
 
-**Professional**  
-[LinkedIn](https://www.linkedin.com/in/naman466/) • [Email](mailto:namantyagi466@gmail.com)
+- Model efficiency and compression  
+- Low level optimisation for deep learning  
+- Numerical behaviour of neural networks  
+- ML systems and compiler style execution  
 
-**Writing & Insights**  
-[Research Blog](https://naman466.substack.com/) • [Twitter](https://x.com/naman466)
+I actively read systems and efficiency papers and build small prototypes to test ideas in practice.  
+Long term, I hope to contribute to the ML systems research community.
 
 ---
 
-*"The first principle is that you must not fool yourself, and you are the easiest person to fool."*  
-— Richard Feynman
+## 🚀 Currently learning
+
+- Writing custom Triton kernels  
+- MLIR dialect basics  
+- Performance profiling with Nsight and perf  
+- Sparse computation patterns  
+
+---
+
+## 📫 Find me
+
+- [Personal site or blog](https://naman466.github.io/)  
+- [Twitter](https://x.com/naman466)  
+- [LinkedIn](https://www.linkedin.com/in/naman466/)
+- [Google Scholar](https://scholar.google.com/citations?user=j5IBsvAAAAAJ&hl=en)
+
+---
+
+<p align="center">
+  <i>"What I cannot create, I do not understand." – Richard Feynman</i>
+</p>
