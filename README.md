@@ -12,11 +12,7 @@
 
 ---
 
-I am a computer science student who believes that **deep understanding comes from building things yourself**.  
-Instead of only using high level libraries, I explore the layers beneath, from IEEE 754 floating point to compiler IRs and kernel execution.
-
-My goal is to contribute to research in **efficient deep learning** and **low level ML infrastructure**.  
-Right now, I am in the learning phase, and every project is an excuse to pull back the curtain.
+Computer science student at Northeastern University in Vancouver, focused on systems software: compilers, operating systems, embedded and performance. I write mostly C, C++ and Rust.
 
 ---
 
