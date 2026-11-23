@@ -55,7 +55,7 @@ Long term, I hope to contribute to the ML systems research community.
 
 ## 📫 Find me
 
-- [Personal site or blog](https://naman466.github.io/)  
+- [Personal site](https://naman466.github.io/)  
 - [Twitter](https://x.com/naman466)  
 - [LinkedIn](https://www.linkedin.com/in/naman466/)
 - [Google Scholar](https://scholar.google.com/citations?user=j5IBsvAAAAAJ&hl=en)
